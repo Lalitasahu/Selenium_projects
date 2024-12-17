@@ -1,0 +1,752 @@
+1706970670403	geckodriver	INFO	Listening on 127.0.0.1:56173
+1706970670412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56174" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileYjxnSc"
+1707029566535	geckodriver	INFO	Listening on 127.0.0.1:56758
+1707029566794	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile4vjY4Y"
+2024-02-04 12:22:58.308 plugin-container[30109:449925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:22:58.309 plugin-container[30109:449925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56759
+2024-02-04 12:22:58.599 plugin-container[30109:449925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:22:58.599 plugin-container[30109:449925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:22:58.600 plugin-container[30109:449936] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:22:58.600 plugin-container[30109:449936] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:56759/devtools/browser/7d997392-16aa-4ca0-a04e-4d78167fffbb
+2024-02-04 06:53:01.326 plugin-container[30118:450337] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:01.327 plugin-container[30118:450337] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:53:01.336 plugin-container[30118:450337] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:01.336 plugin-container[30118:450337] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:53:01.337 plugin-container[30118:450315] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:01.337 plugin-container[30118:450315] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707029599467	geckodriver	INFO	Listening on 127.0.0.1:56816
+1707029599477	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile8olva9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707029600050	Marionette	INFO	Marionette enabled
+2024-02-04 12:23:20.381 plugin-container[30190:450782] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:23:20.381 plugin-container[30190:450782] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:23:20.390 plugin-container[30190:450782] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:23:20.390 plugin-container[30190:450782] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:23:20.390 plugin-container[30190:450791] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:23:20.390 plugin-container[30190:450791] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707029600461	Marionette	INFO	Listening on port 56821
+WebDriver BiDi listening on ws://127.0.0.1:56817
+1707029600705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56817/devtools/browser/79a9b4e4-2858-43bd-9def-bb8b92fc9f91
+2024-02-04 06:53:22.755 plugin-container[30199:451050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:22.755 plugin-container[30199:451050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:53:22.763 plugin-container[30199:451050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:22.763 plugin-container[30199:451050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:53:22.764 plugin-container[30199:451092] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:53:22.764 plugin-container[30199:451092] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.hd.en.4-wbcMM-7bI.O/am=AAAAAAAAAAAAAAAAAAAAAAAgAAAAQAINhEMANkAAAAAwQAIEAAoYA4hCgAiAAQCCgIdyAQAATEBgCEwAKQQnAQAAE1AFEAAAAAAAgGAAEEDgAQEAAOgAgALAAAQBCoAAAAAA5AEIDmCQggAAAAAAAAAAAAACTBCECxIICCAAAAAAAAAAAAAAkEoTFQYB/d=1/ed=1/dg=2/rs=ACT90oGP7YpSyeVIyY_Ze1Wpn6JJykbn9g/ee=AfeaP:TkrAjf;Afksuc:wMx0R;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;CxXAWb:YyRLvc;DULqB:RKfG5c;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;Erl4fe:FloWmf,FloWmf;F9mqte:UoRcbe;Fmv9Nc:O1Tzwc;G0KhTb:LIaoZ;G6wU6e:hezEbd;GleZL:J1A7Od;HMDDWe:G8QUdb;IBADCc:RYquRb;IoGlCf:b5lhvb;IsdWVc:qzxzOb;JXS8fb:Qj0suc;JbMT3:M25sS;JsbNhc:Xd8iUd;KOxcK:OZqGte;KQzWid:ZMKkN;KcokUb:KiuZBf;KeeMUb:HiPxjc;KpRAue:Tia57b;LBgRLc:XVMNvd;LEikZe:byfTOb,lsjVmc;LsNahb:ucGLNb;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;OgagBe:cNTe0;Oj465e:KG2eXe,KG2eXe;OohIYe:mpEAQb;Pjplud:EEDORb,PoEs9b;Q1Ow7b:x5CSu;QGR0gd:Mlhmy;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RDNBlf:zPRCJb;SLtqO:Kh1xYe;SMDL4c:fTfGO,pnvXVc;SNUn3:ZwDk9d,x8cHvb;ShpF6e:N0pvGc;TxfV6d:YORN0b;U96pRd:FsR04;UDrY1c:eps46d;UVmjEd:EesRsb;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VN6jIc:ddQyuf;VOcgDe:YquhTb;VsAqSb:PGf2Re;VxQ32b:k0XsBb;WCEKNd:I46Hvd;WDGyFe:jcVOxd;Wfmdue:g3MJlb;XUezZ:sa7lqb;YV5bee:IvPZ6d;ZMvdv:PHFPjb;ZWEUA:afR4Cf;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aZ61od:arTwJ;bFZ6gf:RsDQqe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;coJ8e:KvoW8;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;daB6be:lMxGPd;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:ofjVkb;eO3lse:nFClrf;fWLTFc:TVBJbf;g8nkx:U4MzKc;gaub4:TN6bMe;gtVSi:ekUOYd;h3MYod:cEt90b;hK67qb:QWEO5b;hLUtwc:KB8OKd;heHB1:sFczq;hjRo6e:F62sG;iFQyKf:QIhFr,vfuNJf;imqimf:jKGL2e;io8t5d:sgY6Zb;jY0zg:Q6tNgc;k2Qxcb:XY51pe;kCQyJ:ueyPK;kMFpHd:OTA3Ae;kbAm9d:MkHyGd;lkq0A:JyBE3e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;oSUNyd:fTfGO,fTfGO,pnvXVc;oUlnpc:RagDlc;okUaUd:wItadb;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:mg5CW;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qavrXe:zQzcXe;qddgKe:d7YSfd,x4FYXe;rQSrae:C6D5Fc;sP4Vbe:VwDzFe;sTsDMc:kHVSUb;tH4IIe:Ymry6;tosKvd:ZCqP3;trZL0b:qY8PFe;uY49fb:COQbmf;uuQkY:u2V3ud;vGrMZ:lPJJ0c;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w4rSdf:XKiZ9;w9w86d:dt4g2b;wQlYve:aLUfP;wR5FRb:TtcOte;wV5Pjc:L8KGxe;whEZac:F4AmNb;xBbsrc:NEW1Qc;yGxLoc:FmAr0c;yxTchf:KUM7Z;z97YGf:oug9te;zOsCQe:Ko78Df;zaIgPb:Qtpxbd/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 422: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.hd.en.4-wbcMM-7bI.O/am=AAAAAAAAAAAAAAAAAAAAAAAgAAAAQAINhEMANkAAAAAwQAIEAAoYA4hCgAiAAQCCgIdyAQAATEBgCEwAKQQnAQAAE1AFEAAAAAAAgGAAEEDgAQEAAOgAgALAAAQBCoAAAAAA5AEIDmCQggAAAAAAAAAAAAACTBCECxIICCAAAAAAAAAAAAAAkEoTFQYB/d=1/ed=1/dg=2/rs=ACT90oGP7YpSyeVIyY_Ze1Wpn6JJykbn9g/ee=AfeaP:TkrAjf;Afksuc:wMx0R;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;CxXAWb:YyRLvc;DULqB:RKfG5c;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;Erl4fe:FloWmf,FloWmf;F9mqte:UoRcbe;Fmv9Nc:O1Tzwc;G0KhTb:LIaoZ;G6wU6e:hezEbd;GleZL:J1A7Od;HMDDWe:G8QUdb;IBADCc:RYquRb;IoGlCf:b5lhvb;IsdWVc:qzxzOb;JXS8fb:Qj0suc;JbMT3:M25sS;JsbNhc:Xd8iUd;KOxcK:OZqGte;KQzWid:ZMKkN;KcokUb:KiuZBf;KeeMUb:HiPxjc;KpRAue:Tia57b;LBgRLc:XVMNvd;LEikZe:byfTOb,lsjVmc;LsNahb:ucGLNb;Me32dd:MEeYgc;NPKaK:PVlQOd;NSEoX:lazG7b;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;OgagBe:cNTe0;Oj465e:KG2eXe,KG2eXe;OohIYe:mpEAQb;Pjplud:EEDORb,PoEs9b;Q1Ow7b:x5CSu;QGR0gd:Mlhmy;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RDNBlf:zPRCJb;SLtqO:Kh1xYe;SMDL4c:fTfGO,pnvXVc;SNUn3:ZwDk9d,x8cHvb;ShpF6e:N0pvGc;TxfV6d:YORN0b;U96pRd:FsR04;UDrY1c:eps46d;UVmjEd:EesRsb;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VN6jIc:ddQyuf;VOcgDe:YquhTb;VsAqSb:PGf2Re;VxQ32b:k0XsBb;WCEKNd:I46Hvd;WDGyFe:jcVOxd;Wfmdue:g3MJlb;XUezZ:sa7lqb;YV5bee:IvPZ6d;ZMvdv:PHFPjb;ZWEUA:afR4Cf;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aZ61od:arTwJ;bFZ6gf:RsDQqe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;coJ8e:KvoW8;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;daB6be:lMxGPd;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:ofjVkb;eO3lse:nFClrf;fWLTFc:TVBJbf;g8nkx:U4MzKc;gaub4:TN6bMe;gtVSi:ekUOYd;h3MYod:cEt90b;hK67qb:QWEO5b;hLUtwc:KB8OKd;heHB1:sFczq;hjRo6e:F62sG;iFQyKf:QIhFr,vfuNJf;imqimf:jKGL2e;io8t5d:sgY6Zb;jY0zg:Q6tNgc;k2Qxcb:XY51pe;kCQyJ:ueyPK;kMFpHd:OTA3Ae;kbAm9d:MkHyGd;lkq0A:JyBE3e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;oSUNyd:fTfGO,fTfGO,pnvXVc;oUlnpc:RagDlc;okUaUd:wItadb;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:mg5CW;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qavrXe:zQzcXe;qddgKe:d7YSfd,x4FYXe;rQSrae:C6D5Fc;sP4Vbe:VwDzFe;sTsDMc:kHVSUb;tH4IIe:Ymry6;tosKvd:ZCqP3;trZL0b:qY8PFe;uY49fb:COQbmf;uuQkY:u2V3ud;vGrMZ:lPJJ0c;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w4rSdf:XKiZ9;w9w86d:dt4g2b;wQlYve:aLUfP;wR5FRb:TtcOte;wV5Pjc:L8KGxe;whEZac:F4AmNb;xBbsrc:NEW1Qc;yGxLoc:FmAr0c;yxTchf:KUM7Z;z97YGf:oug9te;zOsCQe:Ko78Df;zaIgPb:Qtpxbd/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:422:40
+
+1707029632449	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707029669432	geckodriver	INFO	Listening on 127.0.0.1:56885
+1707029669443	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileGlvdSo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707029669912	Marionette	INFO	Marionette enabled
+2024-02-04 12:24:30.342 plugin-container[30378:452309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:24:30.347 plugin-container[30378:452309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2024-02-04 12:24:30.360 plugin-container[30378:452309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:24:30.360 plugin-container[30378:452309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:24:30.360 plugin-container[30378:452319] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:24:30.360 plugin-container[30378:452319] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707029670385	Marionette	INFO	Listening on port 56889
+WebDriver BiDi listening on ws://127.0.0.1:56886
+1707029670615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-02-04 06:54:32.455 plugin-container[30385:452479] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:54:32.455 plugin-container[30385:452479] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:54:32.460 plugin-container[30385:452479] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:54:32.460 plugin-container[30385:452479] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:54:32.460 plugin-container[30385:452484] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:54:32.460 plugin-container[30385:452484] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:56886/devtools/browser/42e906be-6fc3-4e07-b113-105f770beea0
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13004: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707029699998	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery, line 69: Script terminated by timeout at:
+removeClass@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:69:506
+@https://images-na.ssl-images-amazon.com/images/I/11+EVr8XXlL._RC|31YYsFFQrXL.js,31hfTQlxX3L.js,01BPbuoKVCL.js,31e-ivQFdjL.js,41P1BLAC65L.js,41xgOzcCpbL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,115yI7CA9AL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11NU-eT4i3L.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,31S2duf8y6L.js,01FA0ZefFJL.js,41yGt772pwL.js,01uejmsfnOL.js_.js?AUIClients/SearchAssets&ghJbjI7b#759114-T1:231:357
+
+1707029790225	geckodriver	INFO	Listening on 127.0.0.1:57111
+1707029790755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileLYzyPG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707029791259	Marionette	INFO	Marionette enabled
+2024-02-04 12:26:31.602 plugin-container[30659:454386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:26:31.603 plugin-container[30659:454386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2024-02-04 12:26:31.694 plugin-container[30659:454386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:26:31.694 plugin-container[30659:454386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:26:31.695 plugin-container[30659:454384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:26:31.696 plugin-container[30659:454384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707029791697	Marionette	INFO	Listening on port 57117
+WebDriver BiDi listening on ws://127.0.0.1:57112
+1707029791966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57112/devtools/browser/e8b10e32-9df5-42a6-8716-3aae083e5b9a
+2024-02-04 06:56:34.018 plugin-container[30667:454651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:56:34.018 plugin-container[30667:454651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:56:34.059 plugin-container[30667:454651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:56:34.059 plugin-container[30667:454651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 06:56:34.060 plugin-container[30667:454637] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 06:56:34.060 plugin-container[30667:454637] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12963: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707029797328	Marionette	INFO	Stopped listening on port 57117
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12952: Script terminated by timeout at:
+xe@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:12952:4819
+Ee@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:12952:3831
+he@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:12952:2932
+D/<@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:376:686
+
+1707029804000	Marionette	INFO	Stopped listening on port 56889
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707029807194	Marionette	INFO	Stopped listening on port 56821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1707030044557	geckodriver	INFO	Listening on 127.0.0.1:57206
+1707030044570	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilefhU9x8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707030045042	Marionette	INFO	Marionette enabled
+2024-02-04 12:30:45.353 plugin-container[31206:457952] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:30:45.353 plugin-container[31206:457952] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:30:45.357 plugin-container[31206:457952] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:30:45.358 plugin-container[31206:457952] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:30:45.358 plugin-container[31206:457957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:30:45.358 plugin-container[31206:457957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707030045498	Marionette	INFO	Listening on port 57211
+WebDriver BiDi listening on ws://127.0.0.1:57207
+1707030045582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57207/devtools/browser/2d4bb4e5-6483-4e2c-8aa2-1a7a7bc191bf
+2024-02-04 07:00:47.783 plugin-container[31213:458200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:00:47.783 plugin-container[31213:458200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 07:00:47.790 plugin-container[31213:458200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:00:47.790 plugin-container[31213:458200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 07:00:47.791 plugin-container[31213:458233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:00:47.791 plugin-container[31213:458233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12984: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707030050378	Marionette	INFO	Stopped listening on port 57211
+1707030082126	geckodriver	INFO	Listening on 127.0.0.1:57279
+1707030082136	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile0CGoCI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707030082662	Marionette	INFO	Marionette enabled
+2024-02-04 12:31:22.988 plugin-container[31328:458992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:31:22.989 plugin-container[31328:458992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:31:22.995 plugin-container[31328:458992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:31:22.995 plugin-container[31328:458992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 12:31:22.996 plugin-container[31328:458999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 12:31:22.996 plugin-container[31328:458999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707030083043	Marionette	INFO	Listening on port 57283
+WebDriver BiDi listening on ws://127.0.0.1:57280
+1707030083324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57280/devtools/browser/3601e2f6-92d2-4f4b-a72f-47fd40a51651
+2024-02-04 07:01:25.234 plugin-container[31335:459239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:01:25.234 plugin-container[31335:459239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 07:01:25.240 plugin-container[31335:459239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:01:25.240 plugin-container[31335:459239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 07:01:25.241 plugin-container[31335:459257] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 07:01:25.241 plugin-container[31335:459257] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13102: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707030088307	Marionette	INFO	Stopped listening on port 57283
+1707064452462	geckodriver	INFO	Listening on 127.0.0.1:57664
+1707064452982	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile9rrBsq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707064453626	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707064454373	Marionette	INFO	Listening on port 57670
+WebDriver BiDi listening on ws://127.0.0.1:57665
+2024-02-04 22:04:14.486 plugin-container[39742:515002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:04:14.487 plugin-container[39742:515002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:04:14.514 plugin-container[39742:515002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:04:14.514 plugin-container[39742:515002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:04:14.516 plugin-container[39742:515017] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:04:14.516 plugin-container[39742:515017] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707064454656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57665/devtools/browser/97024d12-ab0c-4837-a8c0-10295eae575b
+2024-02-04 16:34:17.081 plugin-container[39753:515281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:34:17.082 plugin-container[39753:515281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:34:17.104 plugin-container[39753:515281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:34:17.104 plugin-container[39753:515281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:34:17.106 plugin-container[39753:515307] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:34:17.106 plugin-container[39753:515307] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13178: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064483666	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707064498872	geckodriver	INFO	Listening on 127.0.0.1:57869
+1707064499387	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileQsfRqx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707064499889	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707064500297	Marionette	INFO	Listening on port 57875
+WebDriver BiDi listening on ws://127.0.0.1:57870
+2024-02-04 22:05:00.323 plugin-container[39873:516243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:00.326 plugin-container[39873:516243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:05:00.380 plugin-container[39873:516243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:00.380 plugin-container[39873:516243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:05:00.381 plugin-container[39873:516250] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:00.381 plugin-container[39873:516250] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707064500568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57870/devtools/browser/51697799-d34f-44a9-a539-68cbcfa9cd11
+2024-02-04 16:35:02.671 plugin-container[39882:516512] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:02.672 plugin-container[39882:516512] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:35:02.676 plugin-container[39882:516512] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:02.677 plugin-container[39882:516512] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:35:02.677 plugin-container[39882:516537] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:02.677 plugin-container[39882:516537] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12854: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064530045	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707064542392	geckodriver	INFO	Listening on 127.0.0.1:58048
+1707064542910	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileg6rxBO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707064543411	Marionette	INFO	Marionette enabled
+2024-02-04 22:05:43.785 plugin-container[40006:517468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:43.785 plugin-container[40006:517468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707064543845	Marionette	INFO	Listening on port 58054
+2024-02-04 22:05:43.858 plugin-container[40006:517468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:43.858 plugin-container[40006:517468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58049
+2024-02-04 22:05:43.860 plugin-container[40006:517466] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:05:43.860 plugin-container[40006:517466] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707064544094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58049/devtools/browser/1ce712ac-30f8-447c-beb2-e2d8cdd7cd87
+2024-02-04 16:35:46.187 plugin-container[40013:517714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:46.188 plugin-container[40013:517714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:35:46.193 plugin-container[40013:517714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:46.193 plugin-container[40013:517714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:35:46.194 plugin-container[40013:517741] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:35:46.194 plugin-container[40013:517741] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12749: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064553594	Marionette	INFO	Stopped listening on port 58054
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1, line 216: Script terminated by timeout at:
+map@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:216:478
+g@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:244:196
+u@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:245:343
+f<@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:249:184
+d</once/<@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:220:491
+@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:249:311
+@https://images-na.ssl-images-amazon.com/images/I/61ZS63EQSsL._RC|11Y+5x+kkTL.js,51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:249:481
+n@about:srcdoc:27:307
+M/</<@about:srcdoc:29:111
+z@about:srcdoc:30:278
+
+1707064603992	geckodriver	INFO	Listening on 127.0.0.1:58134
+1707064604004	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilewwfZdc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707064604526	Marionette	INFO	Marionette enabled
+2024-02-04 22:06:44.883 plugin-container[40175:518794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:06:44.883 plugin-container[40175:518794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:06:44.893 plugin-container[40175:518794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:06:44.893 plugin-container[40175:518794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:06:44.894 plugin-container[40175:518796] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:06:44.894 plugin-container[40175:518796] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707064604928	Marionette	INFO	Listening on port 58138
+WebDriver BiDi listening on ws://127.0.0.1:58135
+1707064605151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58135/devtools/browser/b1f49d23-990d-4f0c-8fda-7c19cac9e072
+2024-02-04 16:36:47.517 plugin-container[40182:519074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:36:47.518 plugin-container[40182:519074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:36:47.531 plugin-container[40182:519074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:36:47.532 plugin-container[40182:519074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:36:47.533 plugin-container[40182:519118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:36:47.533 plugin-container[40182:519118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12971: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064632946	geckodriver	INFO	Listening on 127.0.0.1:58328
+1707064633457	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilemGm9S2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707064633964	Marionette	INFO	Marionette enabled
+2024-02-04 22:07:14.339 plugin-container[40276:519853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:07:14.339 plugin-container[40276:519853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707064634393	Marionette	INFO	Listening on port 58334
+WebDriver BiDi listening on ws://127.0.0.1:58329
+2024-02-04 22:07:14.481 plugin-container[40276:519853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:07:14.481 plugin-container[40276:519853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:07:14.481 plugin-container[40276:519875] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:07:14.481 plugin-container[40276:519875] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707064634654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707064635440	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+DevTools listening on ws://127.0.0.1:58329/devtools/browser/a48e579c-2e16-4250-b8be-01f5d2b5e360
+2024-02-04 16:37:17.579 plugin-container[40285:520075] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:37:17.579 plugin-container[40285:520075] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:37:17.588 plugin-container[40285:520075] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:37:17.588 plugin-container[40285:520075] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:37:17.588 plugin-container[40285:520089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:37:17.588 plugin-container[40285:520089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064664026	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13032: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707064672275	Marionette	INFO	Stopped listening on port 58334
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13033: Script terminated by timeout at:
+U@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13033:1138
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new AbortError("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1707064785617	Marionette	INFO	Stopped listening on port 57670
+1707064789033	Marionette	INFO	Stopped listening on port 57875
+JavaScript warning: https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery, line 81: Script terminated by timeout at:
+k@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:81:176
+
+1707064792673	Marionette	INFO	Stopped listening on port 58138
+1707065438044	geckodriver	INFO	Listening on 127.0.0.1:58668
+1707065438564	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileL4jT6r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707065438990	Marionette	INFO	Marionette enabled
+2024-02-04 22:20:39.455 plugin-container[41971:531448] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:20:39.455 plugin-container[41971:531448] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:20:39.548 plugin-container[41971:531448] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:20:39.548 plugin-container[41971:531448] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:20:39.550 plugin-container[41971:531444] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:20:39.550 plugin-container[41971:531444] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707065439598	Marionette	INFO	Listening on port 58674
+WebDriver BiDi listening on ws://127.0.0.1:58669
+1707065439679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58669/devtools/browser/17129e0a-8c3d-4170-b8cc-dcc31e97f7e8
+2024-02-04 16:50:41.930 plugin-container[41978:531710] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:50:41.930 plugin-container[41978:531710] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:50:41.937 plugin-container[41978:531710] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:50:41.937 plugin-container[41978:531710] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:50:41.938 plugin-container[41978:531721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:50:41.938 plugin-container[41978:531721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12979: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707065470818	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707065496472	geckodriver	INFO	Listening on 127.0.0.1:58841
+1707065496483	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile1kI8C8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707065497039	Marionette	INFO	Marionette enabled
+2024-02-04 22:21:37.633 plugin-container[42126:532771] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:21:37.634 plugin-container[42126:532771] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:21:37.655 plugin-container[42126:532771] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:21:37.655 plugin-container[42126:532771] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:21:37.657 plugin-container[42126:532786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:21:37.657 plugin-container[42126:532786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707065497761	Marionette	INFO	Listening on port 58845
+WebDriver BiDi listening on ws://127.0.0.1:58842
+1707065498006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58842/devtools/browser/49cedf82-84ba-4257-996a-b5bc29ae4c4e
+2024-02-04 16:51:40.576 plugin-container[42135:533001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:51:40.578 plugin-container[42135:533001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:51:40.591 plugin-container[42135:533001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:51:40.591 plugin-container[42135:533001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:51:40.591 plugin-container[42135:533005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:51:40.592 plugin-container[42135:533005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13091: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707065527431	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707065570289	geckodriver	INFO	Listening on 127.0.0.1:59019
+1707065570299	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileTHs44x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707065570800	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707065571211	Marionette	INFO	Listening on port 59023
+2024-02-04 22:22:51.211 plugin-container[42311:534304] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:22:51.211 plugin-container[42311:534304] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:22:51.221 plugin-container[42311:534304] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:22:51.221 plugin-container[42311:534304] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:22:51.222 plugin-container[42311:534310] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:22:51.222 plugin-container[42311:534310] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59020
+1707065571465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59020/devtools/browser/e5a69b1c-234b-4345-b005-92723da9eaf9
+2024-02-04 16:52:53.598 plugin-container[42318:534591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:52:53.598 plugin-container[42318:534591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:52:53.624 plugin-container[42318:534591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:52:53.625 plugin-container[42318:534591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:52:53.625 plugin-container[42318:534586] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:52:53.625 plugin-container[42318:534586] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12935: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707065586984	geckodriver	INFO	Listening on 127.0.0.1:59175
+1707065586997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileMwjmQH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707065587470	Marionette	INFO	Marionette enabled
+2024-02-04 22:23:07.983 plugin-container[42379:535179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:23:07.983 plugin-container[42379:535179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:23:08.014 plugin-container[42379:535179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:23:08.014 plugin-container[42379:535179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 22:23:08.014 plugin-container[42379:535189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 22:23:08.014 plugin-container[42379:535189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707065588048	Marionette	INFO	Listening on port 59179
+WebDriver BiDi listening on ws://127.0.0.1:59176
+1707065588392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59176/devtools/browser/e3ec43b8-8860-4058-992b-f47db5a83888
+2024-02-04 16:53:11.319 plugin-container[42388:535516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:11.319 plugin-container[42388:535516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:53:11.326 plugin-container[42388:535516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:11.326 plugin-container[42388:535516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:53:11.326 plugin-container[42388:535526] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:11.326 plugin-container[42388:535526] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13071: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707065600542	Marionette	INFO	Stopped listening on port 59179
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13072: Script terminated by timeout at:
+g@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13072:759
+U@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13072:1057
+
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+value/<@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11514
+value@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11515
+value@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:10964
+o@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11646
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+1707065602436	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: WebExtensions: 
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIPropertyBag.getProperty]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js :: stopListener :: line 186"  data: no]
+  Stack:
+    stopListener@jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js:186:32
+
+2024-02-04 16:53:58.817 plugin-container[42502:536493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:58.817 plugin-container[42502:536493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:53:58.832 plugin-container[42502:536493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:58.833 plugin-container[42502:536493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-04 16:53:58.834 plugin-container[42502:536499] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-04 16:53:58.834 plugin-container[42502:536499] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/Metluks-Slippers-Anti-skid-Grippers-Christmas/dp/B0C1NGW4K4/ref=sr_1_29_sspa?_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&keywords=Shoes&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1707065592&refinements=p_36%3A-5000&rnid=2661611011&sprefix=shoes%2Caps%2C145&sr=8-29-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1, line 9384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12911: Script terminated by timeout at:
+l@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:12911:236
+
+JavaScript warning: https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery, line 69: Script terminated by timeout at:
+removeClass@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:69:418
+@https://images-na.ssl-images-amazon.com/images/I/11+EVr8XXlL._RC|31YYsFFQrXL.js,31hfTQlxX3L.js,01BPbuoKVCL.js,31e-ivQFdjL.js,41P1BLAC65L.js,41xgOzcCpbL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,115yI7CA9AL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11NU-eT4i3L.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,31S2duf8y6L.js,01FA0ZefFJL.js,41yGt772pwL.js,01uejmsfnOL.js_.js?AUIClients/SearchAssets&ghJbjI7b#759114-T1:231:357
+
+JavaScript warning: https://www.amazon.com/Metluks-Slippers-Anti-skid-Grippers-Christmas/dp/B0C1NGW4K4/ref=sr_1_29_sspa?_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&keywords=Shoes&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1707065592&refinements=p_36%3A-5000&rnid=2661611011&sprefix=shoes%2Caps%2C145&sr=8-29-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1, line 60: Script terminated by timeout at:
+m@https://www.amazon.com/Metluks-Slippers-Anti-skid-Grippers-Christmas/dp/B0C1NGW4K4/ref=sr_1_29_sspa?_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&keywords=Shoes&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1707065592&refinements=p_36%3A-5000&rnid=2661611011&sprefix=shoes%2Caps%2C145&sr=8-29-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1:60:292
+S@https://www.amazon.com/Metluks-Slippers-Anti-skid-Grippers-Christmas/dp/B0C1NGW4K4/ref=sr_1_29_sspa?_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&keywords=Shoes&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1707065592&refinements=p_36%3A-5000&rnid=2661611011&sprefix=shoes%2Caps%2C145&sr=8-29-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1:65:440
+c@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:932
+d@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:634
+sendLatencyMetric@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:2219
+ln@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:27778
+dn/this.sendLatencyMetric@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:24965
+$n/this.receiveMessage@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.4600c1d3.js?csm_attribution=APE-SafeFrame:1:35852
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13023: Script terminated by timeout at:
+l@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13023:262
+
+1707065650685	Marionette	INFO	Stopped listening on port 58674
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707065655720	Marionette	INFO	Stopped listening on port 58845
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707065659350	Marionette	INFO	Stopped listening on port 59023
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707583975542	geckodriver	INFO	Listening on 127.0.0.1:64239
+1707583975870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64240" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilef7pgou"
+1707584010010	geckodriver	INFO	Listening on 127.0.0.1:64256
+1707584010236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilefgQP6k"
+2024-02-10 22:23:42.441 plugin-container[38747:1183559] nil host used in call to allowsSpecificHTTPSCertificateForHost
+WebDriver BiDi listening on ws://127.0.0.1:64257
+2024-02-10 22:23:42.536 plugin-container[38747:1183559] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:23:43.028 plugin-container[38747:1183559] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:23:43.028 plugin-container[38747:1183559] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:23:43.028 plugin-container[38747:1183562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:23:43.028 plugin-container[38747:1183562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:64257/devtools/browser/29c7dd27-c285-4850-9404-70b3c619c4cf
+2024-02-10 16:53:45.701 plugin-container[38757:1183825] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:53:45.701 plugin-container[38757:1183825] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 16:53:45.708 plugin-container[38757:1183825] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:53:45.708 plugin-container[38757:1183825] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 16:53:45.710 plugin-container[38757:1183862] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:53:45.710 plugin-container[38757:1183862] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707584108730	geckodriver	INFO	Listening on 127.0.0.1:64315
+1707584109239	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilePraeE4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707584109821	Marionette	INFO	Marionette enabled
+2024-02-10 22:25:10.162 plugin-container[38983:1185090] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:25:10.163 plugin-container[38983:1185090] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:25:10.172 plugin-container[38983:1185090] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:25:10.172 plugin-container[38983:1185090] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:25:10.172 plugin-container[38983:1185102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:25:10.173 plugin-container[38983:1185102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707584110263	Marionette	INFO	Listening on port 64321
+WebDriver BiDi listening on ws://127.0.0.1:64316
+1707584110566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64316/devtools/browser/7fa4b4f8-2ab0-40bf-9cf5-273993da7cb5
+2024-02-10 16:55:12.663 plugin-container[38992:1185355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:55:12.663 plugin-container[38992:1185355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 16:55:12.670 plugin-container[38992:1185355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:55:12.670 plugin-container[38992:1185355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 16:55:12.671 plugin-container[38992:1185381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 16:55:12.671 plugin-container[38992:1185381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13267: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707584117293	Marionette	INFO	Stopped listening on port 64321
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13256: Script terminated by timeout at:
+Ee@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13256:3681
+he@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13256:2932
+D/<@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:374:686
+
+1707584803477	geckodriver	INFO	Listening on 127.0.0.1:64581
+1707584803981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileT5sFpR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707584804755	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2024-02-10 22:36:45.170 plugin-container[40444:1194621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:36:45.171 plugin-container[40444:1194621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:36:45.176 plugin-container[40444:1194621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:36:45.176 plugin-container[40444:1194621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:36:45.176 plugin-container[40444:1194630] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:36:45.177 plugin-container[40444:1194630] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707584805201	Marionette	INFO	Listening on port 64587
+WebDriver BiDi listening on ws://127.0.0.1:64582
+1707584805516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64582/devtools/browser/fa4a66ff-97ae-452f-86db-935bb2c72569
+2024-02-10 17:06:47.747 plugin-container[40455:1194945] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:06:47.747 plugin-container[40455:1194945] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:06:47.754 plugin-container[40455:1194945] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:06:47.754 plugin-container[40455:1194945] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:06:47.755 plugin-container[40455:1194956] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:06:47.755 plugin-container[40455:1194956] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13251: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707584837445	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707584857146	geckodriver	INFO	Listening on 127.0.0.1:64784
+1707584857644	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileEJOYaN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707584858172	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2024-02-10 22:37:38.651 plugin-container[40588:1196192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:37:38.652 plugin-container[40588:1196192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707584858683	Marionette	INFO	Listening on port 64790
+WebDriver BiDi listening on ws://127.0.0.1:64785
+2024-02-10 22:37:38.726 plugin-container[40588:1196192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:37:38.726 plugin-container[40588:1196192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:37:38.727 plugin-container[40588:1196200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:37:38.727 plugin-container[40588:1196200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707584859001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64785/devtools/browser/40068c6d-1d12-4f8b-a1c9-02dbd42923d8
+2024-02-10 17:07:41.088 plugin-container[40596:1196451] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:07:41.088 plugin-container[40596:1196451] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:07:41.098 plugin-container[40596:1196451] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:07:41.098 plugin-container[40596:1196451] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:07:41.098 plugin-container[40596:1196488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:07:41.099 plugin-container[40596:1196488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13092: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707584888248	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13080: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13025: Script terminated by timeout at:
+l@https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk:13025:262
+
+1707584988853	geckodriver	INFO	Listening on 127.0.0.1:65009
+1707584989365	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile5xehx0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707584989876	Marionette	INFO	Marionette enabled
+2024-02-10 22:39:50.439 plugin-container[40909:1199210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:39:50.439 plugin-container[40909:1199210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:39:50.472 plugin-container[40909:1199210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:39:50.472 plugin-container[40909:1199210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:39:50.473 plugin-container[40909:1199214] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:39:50.473 plugin-container[40909:1199214] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707584990533	Marionette	INFO	Listening on port 65015
+WebDriver BiDi listening on ws://127.0.0.1:65010
+1707584990831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65010/devtools/browser/936068cc-b72b-4c44-bf34-9cd4c7ca862a
+2024-02-10 17:09:53.225 plugin-container[40916:1199487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:09:53.225 plugin-container[40916:1199487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:09:53.232 plugin-container[40916:1199487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:09:53.232 plugin-container[40916:1199487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:09:53.232 plugin-container[40916:1199541] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:09:53.232 plugin-container[40916:1199541] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 12959: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DShoes%26ie%3DUTF8%26useRedirectOnSuccess%3D1%26ref_%3Ddex_glow_signin%26path%3D%2Fs%3Fk%3DShoes%26rh%3Dp_36%253A-5000%26_encoding%3DUTF8%26content-id%3Damzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a%26crid%3D1QEZIUFPCL3YZ%26pd_rd_r%3D01e5c7b9-56cc-4480-98d5-eff91ef45249%26pd_rd_w%3Dk5YZ5%26pd_rd_wg%3DIaFs8%26pf_rd_p%3Db0c3902d-ae70-4b80-8f54-4d0a3246745a%26pf_rd_r%3DBZNQAGAQQZ6C1N4CD7QW%26qid%3D1684823927%26rnid%3D2661611011%26sprefix%3Dshoes%252Caps%252C145%26ref%3Dpd_gw_unk&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0, line 871: Script terminated by timeout at:
+l@https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DShoes%26ie%3DUTF8%26useRedirectOnSuccess%3D1%26ref_%3Ddex_glow_signin%26path%3D%2Fs%3Fk%3DShoes%26rh%3Dp_36%253A-5000%26_encoding%3DUTF8%26content-id%3Damzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a%26crid%3D1QEZIUFPCL3YZ%26pd_rd_r%3D01e5c7b9-56cc-4480-98d5-eff91ef45249%26pd_rd_w%3Dk5YZ5%26pd_rd_wg%3DIaFs8%26pf_rd_p%3Db0c3902d-ae70-4b80-8f54-4d0a3246745a%26pf_rd_r%3DBZNQAGAQQZ6C1N4CD7QW%26qid%3D1684823927%26rnid%3D2661611011%26sprefix%3Dshoes%252Caps%252C145%26ref%3Dpd_gw_unk&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0:871:262
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1707585019958	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707585023406	geckodriver	INFO	Listening on 127.0.0.1:65204
+1707585023919	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilenAeIyQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707585024488	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707585025070	Marionette	INFO	Listening on port 65210
+2024-02-10 22:40:25.082 plugin-container[41018:1200404] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:40:25.090 plugin-container[41018:1200404] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:65205
+2024-02-10 22:40:25.256 plugin-container[41018:1200404] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:40:25.256 plugin-container[41018:1200404] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:40:25.257 plugin-container[41018:1200414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:40:25.257 plugin-container[41018:1200414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1707585025484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65205/devtools/browser/90a11c1a-9872-47fa-a85c-32ac4b5a4a0b
+2024-02-10 17:10:28.187 plugin-container[41028:1200668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:10:28.187 plugin-container[41028:1200668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:10:28.220 plugin-container[41028:1200668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:10:28.220 plugin-container[41028:1200668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:10:28.221 plugin-container[41028:1200680] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:10:28.221 plugin-container[41028:1200680] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13130: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 711"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:711:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:558:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:460:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:424:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2197:33
+addAllSources@resource://devtools/server/actors/thread.js:1518:14
+watch@resource://devtools/server/actors/resources/sources.js:81:17
+watchResources@resource://devtools/server/actors/resources/index.js:324:19
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:49:23
+_addOrSetSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:540:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:442:21
+Line: 711, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 711"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:711:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:558:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:460:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:424:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2197:33
+addAllSources@resource://devtools/server/actors/thread.js:1518:14
+watch@resource://devtools/server/actors/resources/sources.js:81:17
+watchResources@resource://devtools/server/actors/resources/index.js:324:19
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:49:23
+_addOrSetSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:540:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:442:21
+Line: 711, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 711"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:711:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:558:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:460:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:424:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2197:33
+addAllSources@resource://devtools/server/actors/thread.js:1518:14
+watch@resource://devtools/server/actors/resources/sources.js:81:17
+watchResources@resource://devtools/server/actors/resources/index.js:324:19
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:49:23
+_addOrSetSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:540:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:442:21
+Line: 711, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 711: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 711: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 711: Failed to open input source 'file:///'
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707585054542	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707585312650	geckodriver	INFO	Listening on 127.0.0.1:65401
+1707585313164	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileX0rMAa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707585313686	Marionette	INFO	Marionette enabled
+2024-02-10 22:45:14.273 plugin-container[41685:1205846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:45:14.274 plugin-container[41685:1205846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:45:14.289 plugin-container[41685:1205846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:45:14.289 plugin-container[41685:1205846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:45:14.290 plugin-container[41685:1205844] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:45:14.290 plugin-container[41685:1205844] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707585314325	Marionette	INFO	Listening on port 65407
+WebDriver BiDi listening on ws://127.0.0.1:65402
+1707585314408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65402/devtools/browser/83d5d518-e413-40ca-8a8a-15f2f2eb0c1f
+2024-02-10 17:15:16.861 plugin-container[41692:1206086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:15:16.861 plugin-container[41692:1206086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:15:16.868 plugin-container[41692:1206086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:15:16.868 plugin-container[41692:1206086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:15:16.869 plugin-container[41692:1206098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:15:16.869 plugin-container[41692:1206098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13060: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1707585343707	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707585408303	geckodriver	INFO	Listening on 127.0.0.1:49223
+1707585408815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileNYjDly"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707585409402	Marionette	INFO	Marionette enabled
+2024-02-10 22:46:49.937 plugin-container[41918:1208334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:46:49.938 plugin-container[41918:1208334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:46:49.948 plugin-container[41918:1208334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:46:49.949 plugin-container[41918:1208334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 22:46:49.955 plugin-container[41918:1208331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 22:46:49.955 plugin-container[41918:1208331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1707585409996	Marionette	INFO	Listening on port 49229
+WebDriver BiDi listening on ws://127.0.0.1:49224
+1707585410087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49224/devtools/browser/65731a40-6bdd-4f09-a3db-b264b5bd42d1
+2024-02-10 17:16:52.659 plugin-container[41929:1208651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:16:52.660 plugin-container[41929:1208651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:16:52.679 plugin-container[41929:1208651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:16:52.679 plugin-container[41929:1208651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-02-10 17:16:52.680 plugin-container[41929:1208630] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-02-10 17:16:52.680 plugin-container[41929:1208630] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Shoes&rh=p_36%3A-5000&_encoding=UTF8&content-id=amzn1.sym.b0c3902d-ae70-4b80-8f54-4d0a3246745a&crid=1QEZIUFPCL3YZ&pd_rd_r=01e5c7b9-56cc-4480-98d5-eff91ef45249&pd_rd_w=k5YZ5&pd_rd_wg=IaFs8&pf_rd_p=b0c3902d-ae70-4b80-8f54-4d0a3246745a&pf_rd_r=BZNQAGAQQZ6C1N4CD7QW&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=pd_gw_unk, line 13207: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BKPXF14nL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+1707585433165	Marionette	INFO	Stopped listening on port 64587
+1707585436389	Marionette	INFO	Stopped listening on port 64790
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707585439421	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707585440452	Marionette	INFO	Stopped listening on port 65015
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1707585444126	Marionette	INFO	Stopped listening on port 65210
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1707585448308	Marionette	INFO	Stopped listening on port 65407
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,3190vMtsjaL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41k8iTU2aPL.js_.js?AUIClients/NavDesktopUberAsset&OI9QRSNV#desktop.language-en.us.810771-T1.803398-T1, line 677: Script terminated by timeout at:
+d/a<@https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,3190vMtsjaL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41k8iTU2aPL.js_.js?AUIClients/NavDesktopUberAsset&OI9QRSNV#desktop.language-en.us.810771-T1.803398-T1:677:186
+
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+1707585452676	Marionette	INFO	Stopped listening on port 49229
